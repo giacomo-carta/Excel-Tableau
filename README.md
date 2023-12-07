@@ -4,7 +4,7 @@ Welcome to my project repository where I explore "The Wealth of Nations" public 
 
 ## About the Dataset
 
-The "The Wealth of Nations" dataset contains [brief description of the dataset].
+The "The Wealth of Nations" dataset contains information about country GDP per capita, life expectancy at birth and smartphone usage.
 
 ## Tools Used
 
@@ -13,7 +13,7 @@ The "The Wealth of Nations" dataset contains [brief description of the dataset].
 
 ## Project Overview
 
-In this project, I utilized Excel for [describe the tasks or analysis performed in Excel], and then I further visualized and analyzed the data in Tableau to [describe the objectives in Tableau].
+In this project, I used Microsoft Excel for data cleaning, preprocessing, and conducting Exploratory Data Analysis (EDA). Then, I imported the refined dataset into Tableau to identify trends and perform further analytical tasks.
 
 ## Repository Structure
 
@@ -23,14 +23,9 @@ In this project, I utilized Excel for [describe the tasks or analysis performed 
 
 Feel free to explore the individual folders for detailed information on each phase of the project.
 
-## Getting Started
-
-[Provide instructions on how others can run or replicate your project.]
-
 ## Contact
 
 For any questions or collaboration opportunities, feel free to reach out:
 
-- Email: [your@email.com]
-- LinkedIn: [Your LinkedIn Profile]
-- Twitter: [@YourTwitterHandle]
+- LinkedIn: [[https://www.linkedin.com/in/giacomo-carta-a49986160/]
+
