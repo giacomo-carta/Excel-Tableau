@@ -19,7 +19,7 @@ In this project, I used Microsoft Excel for data cleaning, preprocessing, and co
 
 - **/Excel**
   - **/RawData**
-    - [The Wealth of Nations.xlsx](/Excel-Tableau/The%20Wealth%20of%20Nations.xlsx)
+    - [The Wealth of Nations.xlsx](The%20Wealth%20of%20Nations.xlsx)
       - The primary dataset containing information about country GDP per capita, life expectancy at birth, and smartphone usage.
 
 - **/Tableau**
