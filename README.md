@@ -17,10 +17,14 @@ In this project, I used Microsoft Excel for data cleaning, preprocessing, and co
 
 ## Repository Structure
 
-- **/** (Root)
-  - [Assignment Final Stage.twbx](/Assignment%20Final%20Stage.twbx)
-  - [README.md](/README.md)
-  - [The Wealth of Nations.xlsx](/The%20Wealth%20of%20Nations.xlsx)
+- **/Excel**
+  - [The Wealth of Nations.xlsx](/Excel/The%20Wealth%20of%20Nations.xlsx)
+
+- **/Tableau**
+  - [Assignment Final Stage.twbx](/Tableau/Assignment%20Final%20Stage.twbx)
+
+- [README.md](/README.md)
+
 
 
 ## Tableau Visualization
