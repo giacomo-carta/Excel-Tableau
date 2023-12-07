@@ -25,9 +25,10 @@ In this project, I used Microsoft Excel for data cleaning, preprocessing, and co
 
 Explore the interactive Tableau visualization of the project:
 
-[![Africa, a comparative look at GDP and Life Expectancy](https://public.tableau.com/static/images/As/AssignmentFinalStage/AfricaacomparativelookatGDPandLifeExpectancy/1_rss.png)](https://public.tableau.com/app/profile/giacomo.carta/vizzes)
+[![Africa, a comparative look at GDP and Life Expectancy](https://public.tableau.com/static/images/As/AssignmentFinalStage/AfricaacomparativelookatGDPandLifeExpectancy/1_rss.png)](https://public.tableau.com/app/profile/giacomo.carta/viz​zes/AssignmentFinalStage/AfricaacomparativelookatGDPandLifeExpectancy)
 
 *Note: Click on the image above to interact with the visualization on TableauPublic.*
+
 
 ## Contact
 
