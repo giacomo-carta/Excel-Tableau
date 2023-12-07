@@ -17,8 +17,14 @@ In this project, I used Microsoft Excel for data cleaning, preprocessing, and co
 
 ## Repository Structure
 
-- **/Excel:** Contains Excel files used in the project.
-- **/Tableau:** Contains Tableau workbooks and visualizations.
+- /Excel
+  - /RawData
+    - C:\Users\cobi\Desktop\Skills Bootcamp\Assignments\~TECH Assignment1_DataVisualisation\Resources\The Wealth of nations.xlsx
+      
+- /Tableau
+  - /Workbooks
+    - C:\Users\cobi\Desktop\Assignment Final Stage.twbx
+  
 - **/Documentation:** Additional documentation related to the project.
 
 Feel free to explore the individual folders for detailed information on each phase of the project.
@@ -28,4 +34,4 @@ Feel free to explore the individual folders for detailed information on each pha
 For any questions or collaboration opportunities, feel free to reach out:
 
 - LinkedIn: https://www.linkedin.com/in/giacomo-carta-a49986160/
-
+- TableauPublic: https://public.tableau.com/app/profile/giacomo.carta/vizzes
