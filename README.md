@@ -17,15 +17,13 @@ In this project, I used Microsoft Excel for data cleaning, preprocessing, and co
 
 ## Repository Structure
 
-- **/Excel**
-  - **/RawData**
-    - [The Wealth of Nations.xlsx](The%20Wealth%20of%20Nations.xlsx)
-      - The primary dataset containing information about country GDP per capita, life expectancy at birth, and smartphone usage.
+## Repository Structure
 
-- **/Tableau**
-  - **/Workbooks**
-    - [AssignmentFinalStage.twbx](/Tableau/Workbooks/AssignmentFinalStage.twbx)
-      - Tableau workbook file showcasing visualizations derived from the dataset.
+- **/Excel/RawData**
+  - [The Wealth of Nations.xlsx](/Excel/RawData/The%20Wealth%20of%20Nations.xlsx)
+
+- **/Tableau/Workbooks**
+  - [Assignment Final Stage.twbx](/Tableau/Workbooks/Assignment%20Final%20Stage.twbx)
 
 ## Tableau Visualization
 
