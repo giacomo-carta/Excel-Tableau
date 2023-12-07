@@ -17,13 +17,16 @@ In this project, I used Microsoft Excel for data cleaning, preprocessing, and co
 
 ## Repository Structure
 
-- /Excel
+-- /Excel
   - /RawData
-    - C:\Users\cobi\Desktop\Skills Bootcamp\Assignments\~TECH Assignment1_DataVisualisation\Resources\The Wealth of nations.xlsx
-      
+    - The Wealth of nations.xlsx
+
 - /Tableau
   - /Workbooks
-    - C:\Users\cobi\Desktop\Assignment Final Stage.twbx
+    - Assignment Final Stage.twbx
+
+- /Documentation
+  - README.md
   
 - **/Documentation:** Additional documentation related to the project.
 
