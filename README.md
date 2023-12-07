@@ -27,5 +27,5 @@ Feel free to explore the individual folders for detailed information on each pha
 
 For any questions or collaboration opportunities, feel free to reach out:
 
-- LinkedIn: [[https://www.linkedin.com/in/giacomo-carta-a49986160/]
+- LinkedIn: https://www.linkedin.com/in/giacomo-carta-a49986160/
 
