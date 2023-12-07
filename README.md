@@ -17,9 +17,10 @@ In this project, I used Microsoft Excel for data cleaning, preprocessing, and co
 
 ## Repository Structure
 
--- /Excel
-  - /RawData
-    - The Wealth of nations.xlsx
+- **/Excel**
+  - **/RawData**
+    - [The Wealth of Nations.xlsx](/Excel/RawData/The%20Wealth%20of%20Nations.xlsx)
+
 
 ## Tableau Visualization
 
