@@ -16,9 +16,9 @@ The "The Wealth of Nations" dataset contains information about country GDP per c
 In this project, I used Microsoft Excel for data cleaning, preprocessing, and conducting Exploratory Data Analysis (EDA). Then, I imported the refined dataset into Tableau to identify trends and perform further analytical tasks.
 
 ## Repository Structure
-- The file "[The Wealth of Nations.xlsx](/Excel/The%20Wealth%20of%20Nations.xlsx)" contains the dataset with all information about GDP per capita, life expectancy at birth and smartphone usage of all world's territories.
+- The file "The Wealth of Nations.xlsx" contains the dataset with all information about GDP per capita, life expectancy at birth and smartphone usage of all world's territories.
 
-- The file "[Assignment Final Stage.twbx](/Tableau/Assignment%20Final%20Stage.twbx)" contains the dashboard made using the Tableau software for data visualization.
+- The file "Assignment Final Stage.twbx" contains the dashboard made using the Tableau software for data visualization.
 
 
 
