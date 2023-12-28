@@ -20,7 +20,7 @@ In this project, I used Microsoft Excel for data cleaning, preprocessing, and co
 
 - The file "Project_Dashboard.twbx" contains the dashboard made using the Tableau software for data visualization.
 
-
+- The file "GC_Project_Steps&Reflections.pdf" is the project outcome with a detailed, step-by-step display of the processes and the theory behind the choices taken during the analysis of the dataset.
 
 
 
